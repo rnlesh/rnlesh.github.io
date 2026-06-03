@@ -9,8 +9,7 @@ Junior Recital, 2019
 ---
 ### [Junior Recital | Set 1](project1)
 
-[Erbarme dich, mein Gott]
-[Ah, ch'infelice sempre] 
+[Erbarme dich, mein Gott ; Ah, ch'infelice sempre] 
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
