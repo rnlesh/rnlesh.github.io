@@ -7,9 +7,10 @@ Junior Recital, 2019
 *For access to my Junior Vocal recital, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, Junior Recital Access.
 
 ---
-### [Junior Recital | PART 1](project1)
+### [Junior Recital | Set 1](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Erbarme dich, mein Gott](images/dummy_thumbnail.jpg)
+![Ah, ch'infelice sempre] 
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
