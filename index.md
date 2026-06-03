@@ -1,13 +1,13 @@
-Portfolio
+Vocal Portfolio
 =========
 
-Programming Projects
+Junior Recital, 2019
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my Junior Vocal recital, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, Junior Recital Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Junior Recital | PART 1](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
