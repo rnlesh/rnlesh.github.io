@@ -12,7 +12,7 @@ Junior Recital, 2019
 [Erbarme dich, mein Gott ; Ah, ch'infelice sempre] 
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+What happens if I take out all of the formatting? 
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
