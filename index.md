@@ -14,12 +14,12 @@ Junior Recital, 2019
 ---
 What happens if I take out all of the formatting? 
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+What happens if I take out all of the formatting? 
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+No picture. Just vibes. 
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
