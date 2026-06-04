@@ -12,7 +12,7 @@ Junior Recital, 2019
 [Erbarme dich, mein Gott ; Ah, ch'infelice sempre] 
 
 ---
-### What happens if I take out all of the formatting? 
+### [What happens if I take out all of the formatting?]
 
 What happens if I take out all of the formatting? 
 
