@@ -18,7 +18,7 @@ canceled.
 
 ## How to compile and run the program
 
-**How to compile (if applicable) and run the project.
+***How to compile (if applicable) and run the project.***
 
 ```bash
 cd ./project
