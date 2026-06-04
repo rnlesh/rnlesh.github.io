@@ -11,7 +11,7 @@ Project 1 Title
 
 ## Project description
 
-This was a culmination of all of my work in my collegiate career thus far. What was meant to be a half hour long turned
+This was a ***culmination*** of all of my work in my collegiate career thus far. What was meant to be a half hour long turned
 out to be an hour instead, due to the long nature of several of the pieces that were selected. It is a good thing that it
 was as long as it was, because of the COVID pandemic in 2020, when the in person recital for my senior project recital was
 canceled. 
