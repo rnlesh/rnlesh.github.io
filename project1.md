@@ -11,7 +11,10 @@ Project 1 Title
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was a culmination of all of my work in my collegiate career thus far. What was meant to be a half hour long turned
+out to be an hour instead, due to the long nature of several of the pieces that were selected. It is a good thing that it
+was as long as it was, because of the COVID pandemic in 2020, when the in person recital for my senior project recital was
+canceled. 
 
 ## How to compile and run the program
 
