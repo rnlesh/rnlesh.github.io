@@ -42,7 +42,7 @@ Ethics Papers
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/[References.docx](https://github.com/user-attachments/files/28601426/References.docx)
+### [Paper 3 Title](/[References.docx](https://github.com/user-attachments/files/28601426/References.docx/)
 
 
 -   **Class:** 
